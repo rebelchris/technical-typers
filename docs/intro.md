@@ -28,4 +28,4 @@ Articles and resources have been categorised into the following:
 Articles are collected from various sources, including our community members.
 
 ## Join our community
-We tend to be inclusive and welcoming as possible to make the technical typers community amazing. Get involved, learn new things, meet a writing buddy and stay in touch via our Discord community [Technical Typers](wwww.discord.com).
+We tend to be inclusive and welcoming as possible to make the technical typers community amazing. Get involved, learn new things, meet a writing buddy and stay in touch via our Discord community [Technical Typers](https://discord.gg/kX62pqKJky).
